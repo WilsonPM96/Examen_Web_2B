@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="281270b7-7a6d-4a9d-9754-fad3edbdd18a" name="Default" comment="examen terminado">
-      <change afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pokemon/src/app/app.routes.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project" beforeDir="false" afterPath="$PROJECT_DIR$/project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pokemon/src/app/Login/login/login.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/Pokemon/src/app/Login/login/login.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pokemon/src/app/Login/login/login.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pokemon/src/app/Login/login/login.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pokemon/src/app/app.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Pokemon/src/app/app.routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pokemon/src/app/contenedor/contenedor.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pokemon/src/app/contenedor/contenedor.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pokemon/src/app/contenedor/contenedor.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Pokemon/src/app/contenedor/contenedor.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pokemon/src/app/pokemon/pokemon.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pokemon/src/app/pokemon/pokemon.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pokemon/src/app/transferencia-confirmacion/transferencia-confirmacion.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pokemon/src/app/transferencia-confirmacion/transferencia-confirmacion.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pokemon/src/app/transferencia-seleccion-a/transferencia-seleccion-a.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pokemon/src/app/transferencia-seleccion-a/transferencia-seleccion-a.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pokemon/src/app/transferencia-seleccion/transferencia-seleccion.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pokemon/src/app/transferencia-seleccion/transferencia-seleccion.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pokemon/src/app/transferencia/transferencia.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pokemon/src/app/transferencia/transferencia.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pokemon/src/app/usuarios/usuarios.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pokemon/src/app/usuarios/usuarios.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pokemon/src/app/usuarios/usuarios.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Pokemon/src/app/usuarios/usuarios.component.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,20 +28,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="contenedor.component.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="contenedor.component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pokemon/src/app/contenedor/contenedor.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+            <state relative-caret-position="140">
+              <caret line="51" column="8" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="entrenadores.component.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pokemon/src/app/entrenadores/entrenadores.component.css">
+      <file leaf-file-name="contenedor.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pokemon/src/app/contenedor/contenedor.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="238">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,67 +52,58 @@
       <file leaf-file-name="usuarios.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pokemon/src/app/usuarios/usuarios.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="41" column="8" selection-end-line="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="entrenadores.component.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pokemon/src/app/entrenadores/entrenadores.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pokemon.component.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Pokemon/src/app/pokemon/pokemon.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-68">
-              <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+            <state relative-caret-position="153">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="usuarios.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pokemon/src/app/usuarios/usuarios.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="transferencia-confirmacion.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pokemon/src/app/transferencia-confirmacion/transferencia-confirmacion.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pokemon/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pokemon/src/app/Login/login/login.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1390">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="transferencia-seleccion-a.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pokemon/src/app/transferencia-seleccion-a/transferencia-seleccion-a.component.css">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="contenedor.component.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pokemon/src/app/contenedor/contenedor.component.css">
+      <file leaf-file-name="transferencia-seleccion-a.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pokemon/src/app/transferencia-seleccion-a/transferencia-seleccion-a.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="usuarios.component.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pokemon/src/app/usuarios/usuarios.component.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pokemon.component.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pokemon/src/app/pokemon/pokemon.component.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.component.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pokemon/src/app/Login/login/login.component.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="323">
+              <caret line="19" column="6" lean-forward="true" selection-end-line="19" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -161,20 +164,26 @@
         <option value="$PROJECT_DIR$/project/src/EntrenadorGoPipe/entrenadorGo.pipe.ts" />
         <option value="$PROJECT_DIR$/Pokemon/src/index.html" />
         <option value="$PROJECT_DIR$/Pokemon/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/Pokemon/src/app/app.routes.ts" />
         <option value="$PROJECT_DIR$/Pokemon/src/app/Login/login/login.component.ts" />
-        <option value="$PROJECT_DIR$/Pokemon/src/app/Login/login/login.component.html" />
-        <option value="$PROJECT_DIR$/Pokemon/src/app/Login/login/login.component.css" />
         <option value="$PROJECT_DIR$/Pokemon/src/app/app.component.css" />
-        <option value="$PROJECT_DIR$/Pokemon/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/Pokemon/src/app/contenedor/contenedor.component.css" />
-        <option value="$PROJECT_DIR$/Pokemon/src/app/contenedor/contenedor.component.html" />
         <option value="$PROJECT_DIR$/Pokemon/src/app/usuarios/usuarios.component.css" />
-        <option value="$PROJECT_DIR$/Pokemon/src/app/usuarios/usuarios.component.html" />
         <option value="$PROJECT_DIR$/Pokemon/src/app/entrenadores/entrenadores.component.css" />
         <option value="$PROJECT_DIR$/Pokemon/src/app/entrenadores/entrenadores.component.html" />
         <option value="$PROJECT_DIR$/Pokemon/src/app/pokemon/pokemon.component.css" />
+        <option value="$PROJECT_DIR$/Pokemon/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/Pokemon/src/app/Login/login/login.component.css" />
+        <option value="$PROJECT_DIR$/Pokemon/src/app/Login/login/login.component.html" />
         <option value="$PROJECT_DIR$/Pokemon/src/app/pokemon/pokemon.component.html" />
+        <option value="$PROJECT_DIR$/Pokemon/src/app/transferencia/transferencia.component.html" />
+        <option value="$PROJECT_DIR$/Pokemon/src/app/transferencia-seleccion/transferencia-seleccion.component.html" />
+        <option value="$PROJECT_DIR$/Pokemon/src/app/app.routes.ts" />
+        <option value="$PROJECT_DIR$/Pokemon/src/app/transferencia-seleccion-a/transferencia-seleccion-a.component.html" />
+        <option value="$PROJECT_DIR$/Pokemon/src/app/transferencia-confirmacion/transferencia-confirmacion.component.html" />
+        <option value="$PROJECT_DIR$/Pokemon/src/app/contenedor/contenedor.component.ts" />
+        <option value="$PROJECT_DIR$/Pokemon/src/app/usuarios/usuarios.component.ts" />
+        <option value="$PROJECT_DIR$/Pokemon/src/app/usuarios/usuarios.component.html" />
+        <option value="$PROJECT_DIR$/Pokemon/src/app/contenedor/contenedor.component.html" />
       </list>
     </option>
   </component>
@@ -212,73 +221,75 @@
         <subPane>
           <expand>
             <path>
-              <item name="Examen_DA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Examen_DA" type="462c0819:PsiDirectoryNode" />
+              <item name="Examen_Web_2B" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen_Web_2B" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Examen_DA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Examen_DA" type="462c0819:PsiDirectoryNode" />
+              <item name="Examen_Web_2B" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen_Web_2B" type="462c0819:PsiDirectoryNode" />
               <item name="Pokemon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Examen_DA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Examen_DA" type="462c0819:PsiDirectoryNode" />
+              <item name="Examen_Web_2B" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen_Web_2B" type="462c0819:PsiDirectoryNode" />
               <item name="Pokemon" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Examen_DA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Examen_DA" type="462c0819:PsiDirectoryNode" />
+              <item name="Examen_Web_2B" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen_Web_2B" type="462c0819:PsiDirectoryNode" />
               <item name="Pokemon" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Examen_DA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Examen_DA" type="462c0819:PsiDirectoryNode" />
+              <item name="Examen_Web_2B" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen_Web_2B" type="462c0819:PsiDirectoryNode" />
+              <item name="Pokemon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="contenedor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen_Web_2B" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen_Web_2B" type="462c0819:PsiDirectoryNode" />
+              <item name="Pokemon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen_Web_2B" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen_Web_2B" type="462c0819:PsiDirectoryNode" />
+              <item name="Pokemon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Login" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen_Web_2B" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen_Web_2B" type="462c0819:PsiDirectoryNode" />
+              <item name="Pokemon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="transferencia-confirmacion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen_Web_2B" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen_Web_2B" type="462c0819:PsiDirectoryNode" />
+              <item name="Pokemon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="transferencia-seleccion-a" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Examen_Web_2B" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Examen_Web_2B" type="462c0819:PsiDirectoryNode" />
               <item name="Pokemon" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="usuarios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Examen_DA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Examen_DA" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Examen_DA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Examen_DA" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Examen_DA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Examen_DA" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="EntrenadorGoPipe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Examen_DA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Examen_DA" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="excepciones" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Examen_DA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Examen_DA" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="PokemonGo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Examen_DA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Examen_DA" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="PokemonGoPipe" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -429,11 +440,12 @@
       <workItem from="1528830440933" duration="203000" />
       <workItem from="1529435070786" duration="42000" />
       <workItem from="1531336116637" duration="12501000" />
+      <workItem from="1531422040463" duration="7660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48566000" />
+    <option name="totallyTimeSpent" value="56226000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -447,55 +459,55 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info anchor="bottom" id="TypeScript" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.42093703" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.42093703" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32913387" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32913387" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32913387" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Designer" order="2" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.42093703" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="8" weight="0.32913387" />
-      <window_info anchor="bottom" id="TypeScript" order="1" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32913387" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32913387" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32913387" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info id="Capture Tool" order="4" />
-      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="5" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -515,20 +527,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="examen terminado" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/project/src/main.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/EntrenadorGo/entrenadorGo.controller.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project/src/EntrenadorGo/entrenadorGo.service.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -550,12 +548,6 @@
           <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/app.controller.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/project/src/main.hmr.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -627,9 +619,6 @@
           <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/src/app.controller.ts">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/project/src/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -709,33 +698,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pokemon/src/app/Login/login/login.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/app.routes.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Pokemon/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -744,64 +707,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/Login/login/login.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/Login/login/login.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/app.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/contenedor/contenedor.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" selection-start-column="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/usuarios/usuarios.component.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Pokemon/src/app/contenedor/contenedor.component.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/contenedor/contenedor.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/Login/login/login.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -814,15 +723,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pokemon/src/app/entrenadores/entrenadores.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
+        <state relative-caret-position="850">
           <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/usuarios/usuarios.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="41" column="8" selection-end-line="45" />
         </state>
       </provider>
     </entry>
@@ -840,10 +742,133 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/Login/login/login.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/Login/login/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/transferencia-seleccion/transferencia-seleccion.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="191" lean-forward="true" selection-start-line="191" selection-end-line="191" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/transferencia/transferencia.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="198" column="67" selection-start-line="198" selection-start-column="67" selection-end-line="198" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Pokemon/src/app/pokemon/pokemon.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+        <state relative-caret-position="323">
+          <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/transferencia-seleccion-a/transferencia-seleccion-a.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/transferencia-seleccion-a/transferencia-seleccion-a.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="6" lean-forward="true" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/transferencia-confirmacion/transferencia-confirmacion.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/Login/login/login.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1390">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/app.routes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="30" column="11" lean-forward="true" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/usuarios/usuarios.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/usuarios/usuarios.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/contenedor/contenedor.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pokemon/src/app/contenedor/contenedor.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="51" column="8" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
         </state>
       </provider>
     </entry>
