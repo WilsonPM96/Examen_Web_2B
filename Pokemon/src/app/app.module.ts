@@ -12,6 +12,7 @@ import {RUTAS_APP} from "./app.routes";
 import { TransferenciaComponent } from './transferencia/transferencia.component';
 import { TransferenciaSeleccionComponent } from './transferencia-seleccion/transferencia-seleccion.component';
 import { TransferenciaConfirmacionComponent } from './transferencia-confirmacion/transferencia-confirmacion.component';
+import { TransferenciaSeleccionAComponent } from './transferencia-seleccion-a/transferencia-seleccion-a.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,8 @@ import { TransferenciaConfirmacionComponent } from './transferencia-confirmacion
     EntrenadoresComponent,
     TransferenciaComponent,
     TransferenciaSeleccionComponent,
-    TransferenciaConfirmacionComponent
+    TransferenciaConfirmacionComponent,
+    TransferenciaSeleccionAComponent
   ],
   imports: [
     BrowserModule, FormsModule, RouterModule.forRoot(
